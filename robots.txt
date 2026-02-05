@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.yourdomainhere.ie/sitemap.xml
+
+# Replace "yourdomainhere.ie" with your actual domain name
+# This file tells search engines which pages to crawl
